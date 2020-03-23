@@ -1,0 +1,9 @@
+# pokemon-war
+> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/pokemon/pokemon-war](https://github.com/shroysha/shroysha.github.io/tree/master/pokemon/pokemon-war)
+> see JavaDoc: [JavaDoc](docs/javadoc/index.html)
+
+## Description
+A webapp to handle pokemon server requests
+
+### Tags
+[Groovy, Application, Spring Boot WAR]
