@@ -1,5 +1,5 @@
 # pokemon-war
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/pokemon/pokemon-war](https://github.com/shroysha/shroysha.github.io/tree/master/pokemon/pokemon-war)
+> see code: [https://github.com/shroysha/pokemon-war](https://github.com/shroysha/pokemon-war)
 > see JavaDoc: [JavaDoc](docs/javadoc/index.html)
 
 ## Description
