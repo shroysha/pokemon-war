@@ -5,4 +5,4 @@
 A webapp to handle pokemon server requests
 
 ### Tags
-[Groovy, Application, Spring Boot WAR]
+[Groovy, Application]
